@@ -6,7 +6,7 @@
 2. Using the IRS data provided, bootstrap the LIBOR discount factor D(0, T ), and plot it for T ∈ [0, 30].
 ⇒ Assume that the swap market is collateralized in cash and overnight interest is paid on collateral posted.
 
-3.Calculate the following forward swap rates:
+3. Calculate the following forward swap rates:
 • 1y × 1y, 1y × 2y, 1y × 3y, 1y × 5y, 1y × 10y
 • 5y × 1y, 5y × 2y, 5y × 3y, 5y × 5y, 5y × 10y
 • 10y × 1y, 10y × 2y, 10y × 3y, 10y × 5y, 10y × 10y
